@@ -1,0 +1,14 @@
+{
+  "name": "app-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@core/design-library": "0.3.1",
+    "express": "^4.19.2"
+  }
+}
